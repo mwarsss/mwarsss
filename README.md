@@ -6,8 +6,7 @@ Business Magnet•Frontend Developer•Security enthusiast
 
 * 🌍  I'm based in Harare , Zimbabwe
 * ✉️  You can contact me at [mwarewangepotinomudaishe@gmail.com](mailto:mwarewangepotinomudaishe@gmail.com)
-* 🧠  I'm learning Sveltkit
-* 🤝  I'm open to collaborating on Technical Writing
+* 🤝  I'm open to collaboration
 
 <a href="https://www.twitter.com/Mwarewangepo Tinomudaishe" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Mwarewangepo Tinomudaishe?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"

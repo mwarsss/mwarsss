@@ -1,35 +1,39 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mwarewangepo Tinomudaishe
-=================================================================================================================================================
+# 👋 Hi, I'm Mwarewangepo Tinomudaishe  
 
-Business Magnet•Frontend Developer•Security enthusiast
-------------------------------------------------------
+💻 **Cybersecurity Enthusiast | Cloud Learner | Frontend Developer**  
+🌍 Based in Harare, Zimbabwe | Open to Remote Roles  
 
-* 🌍  I'm based in Harare , Zimbabwe
-* ✉️  You can contact me at [mwarewangepotinomudaishe@gmail.com](mailto:mwarewangepotinomudaishe@gmail.com)
-* 🤝  I'm open to collaboration
+---
 
-<a href="https://www.twitter.com/Mwarewangepo Tinomudaishe" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Mwarewangepo Tinomudaishe?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+### 🚀 About Me  
 
-### Skills
+I'm passionate about building **secure and scalable digital solutions** that bridge technology, business, and impact.  
+Currently pursuing a **B.Tech Honours Degree in Information Security and Assurance**, I enjoy exploring how **cybersecurity, cloud engineering, and web development** come together to create innovative systems.  
 
+I’ve worked on projects ranging from:  
+- 🔐 **AI-driven Healthcare Claims Adjudication Systems (CIMAS Hackathon)**  
+- ☁️ **Cloud Security Labs** using Azure & AWS  
+- 🧠 **Data-driven Dashboards** with Power BI, SQL, and Python  
+- 💻 **Frontend Web Apps** using Svelte, Bootstrap, and Django  
 
-<p align="left">
-<a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+Always learning, always building.  
 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
+---
 
-</p>
+### 🛠️ Tech Stack  
 
+#### 💻 Frontend
+- Svelte | Bootstrap | JavaScript  
 
-### Socials
+#### ⚙️ Backend & Tools
+- Python | SQL | Git | GitHub Actions  
 
-<p align="left"> <a href="https://www.dev.to/Mwarewangepo Tinomudaishe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Mwarewangepo Tinomudaishe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/Mwarewangepo Tinomudaishe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Mwarewangepo Tinomudaishe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mwarsss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/Tinomudaishe Mwarewangepo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.polywork.com/Mwarewangepo Tinomudaishe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Mwarewangepo Tinomudaishe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/Mwarewangepo Tinomudaishe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+#### ☁️ Cloud & Security
+- Microsoft Azure | Power BI | ISO 27001 | TryHackMe Labs  
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+### 🏆 Ach
 
-<a href="http://www.github.com/Mwarewangepo Tinomudaishe"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mwarewangepo Tinomudaishe&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+- 2024 Cimas Healthaathon Runners UP
+  

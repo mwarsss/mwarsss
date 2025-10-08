@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mwarewangepo Tinomudaishe  
 
-💻 **Cybersecurity Enthusiast | Cloud Learner | Frontend Developer**  
-🌍 Based in Harare, Zimbabwe | Open to Remote Roles  
+💻 **Cybersecurity  | Cloud | Web Developer**  
+🌍 Based in Harare, Zimbabwe  
 
 ---
 
@@ -13,8 +13,8 @@ Currently pursuing a **B.Tech Honours Degree in Information Security and Assuran
 I’ve worked on projects ranging from:  
 - 🔐 **AI-driven Healthcare Claims Adjudication Systems (CIMAS Hackathon)**  
 - ☁️ **Cloud Security Labs** using Azure & AWS  
-- 🧠 **Data-driven Dashboards** with Power BI, SQL, and Python  
-- 💻 **Frontend Web Apps** using Svelte, Bootstrap, and Django  
+- 🧠 **Data-Analysis** with SQL, and Python  
+- 💻 **Web Apps** using Svelte, Bootstrap, and Django  
 
 Always learning, always building.  
 
@@ -29,7 +29,7 @@ Always learning, always building.
 - Python | SQL | Git | GitHub Actions  
 
 #### ☁️ Cloud & Security
-- Microsoft Azure | Power BI | ISO 27001 | TryHackMe Labs  
+- Microsoft Azure | Power BI | ISO 27001 | TryHackMe Labs  | HTB Labs 
 
 ---
 

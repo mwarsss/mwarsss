@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mwarewangepo Tinomudaishe  
+# 👋 Hi, I'm Tinomudaishe Mwarewangepo
 
 💻 **Cybersecurity  | Cloud | Web Developer**  
 🌍 Based in Harare, Zimbabwe  
